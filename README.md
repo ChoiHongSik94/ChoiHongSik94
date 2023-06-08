@@ -9,6 +9,7 @@
   </p>
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongSik-Choi-94&hide=stars&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HongSik-Choi-94&layout=compact&theme=buefy&hide=css)](https://github.com/anuraghazra/github-readme-stats)
   
   <br/>
   <br/>
