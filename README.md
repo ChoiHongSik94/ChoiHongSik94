@@ -17,6 +17,12 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Microsoft Teams-6264A7?logo=Microsoft Teams&logoColor=white&style=flat" /> 
   </p>
+  
+  <h3 align="center">📬 To Me 📬</h3>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Microsoft Teams-6264A7?logo=Microsoft Teams&logoColor=white&style=flat" /> 
+  </p>
+  
 </div>
 
 <img src="https://img.shields.io/badge/Salesforce-000000?logo=Salesforce&logoColor=0d9dda&style=plastic">
