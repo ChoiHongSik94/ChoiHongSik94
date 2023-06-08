@@ -25,10 +25,10 @@
   
   <h3 align="center">📬 To Me 📬</h3>
   <p align="center">
-    <a href="https://blog.naver.com/mike1353" target="_blank"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&style=flat&link=https://blog.naver.com/mike1353/"/></a>
+    <a href="https://blog.naver.com/mike1353"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&style=flat&link=https://blog.naver.com/mike1353/"/></a>
     <a href="mailto:94hongsik@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&link=94hongsik@gmail.com&style=flat"/></a>
     <img src="https://img.shields.io/badge/Discord-5865F2?logo=Discord&logoColor=white&style=flat">
-    <a href="https://www.linkedin.com/in/hongsik-choi-27093720a/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=Linkedin&logoColor=white&style=flat"></a>
+    <a href="https://www.linkedin.com/in/hongsik-choi-27093720a/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=Linkedin&logoColor=white&style=flat"></a>
   </p>
   
   <br/>
