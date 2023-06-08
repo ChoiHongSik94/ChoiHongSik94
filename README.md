@@ -10,7 +10,7 @@
   
   <h3 align="center">💬 Communication 💬</h3>
   <p align="center">
-    <img src="https://img.shields.io/badge/microsoftteams-6264A7?style=flat-square&logo=microsoftteams&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Microsoft Teams-6264A7?style=flat-square&logo=Microsoft Teams&logoColor=white" /> 
   </p>
 </div>
 
