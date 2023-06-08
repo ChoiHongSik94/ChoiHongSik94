@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=flat" />
   </p>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiHongSik94&layout=compact&theme=buefy&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoiHongSik94&hide=stars&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
   
   <br/>
   <br/>
