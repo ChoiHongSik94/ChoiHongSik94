@@ -1,1 +1,1 @@
-<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Salesforce&logoColor=white">
+<img src="https://img.shields.io/badge/Salesforce?style=for-the-badge&logo=Salesforce&logoColor=white">
