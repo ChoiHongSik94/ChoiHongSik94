@@ -7,9 +7,7 @@
     <img src="https://img.shields.io/badge/Salesforce-00A1E0?logo=Salesforce&logoColor=white&style=flat">
     <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=flat" />
   </p>
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongSik-Choi-94&hide=stars&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HongSik-Choi-94&layout=compact&theme=buefy&hide=css)](https://github.com/anuraghazra/github-readme-stats)
   
   <br/>
