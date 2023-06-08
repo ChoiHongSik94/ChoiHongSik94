@@ -10,12 +10,12 @@
   
   <h3 align="center">🔨 Development Tool 🔨</h3>
   <p align="center">
-    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white&style=flat" /> 
   </p>
   
   <h3 align="center">💬 Communication 💬</h3>
   <p align="center">
-    <img src="https://img.shields.io/badge/Microsoft Teams-6264A7?style=flat-square&logo=Microsoft Teams&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Microsoft Teams-6264A7?logo=Microsoft Teams&logoColor=white&style=flat" /> 
   </p>
 </div>
 
