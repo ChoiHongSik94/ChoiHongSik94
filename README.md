@@ -6,6 +6,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat">
     <img src="https://img.shields.io/badge/Salesforce-00A1E0?logo=Salesforce&logoColor=white&style=flat">
     <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=flat" />
+    <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
   </p>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HongSik-Choi-94&layout=compact&theme=buefy&hide=css)](https://github.com/anuraghazra/github-readme-stats)
